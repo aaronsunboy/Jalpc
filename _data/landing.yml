@@ -8,19 +8,19 @@
 
 - id: career
   i18n: nav.career
-  name: Career
+  name: Education
   tpl: career.html
   css: timeline
 
 - id: skills
   i18n: nav.skills
-  name: Skills
+  name: Academic
   tpl: skills.html
   css: team
 
 - id: projects
   i18n: nav.projects
-  name: Projects
+  name: Other Activities
   tpl: projects.html
   css: project
 
